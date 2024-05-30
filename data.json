@@ -1,38 +1,24 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Zweli Ngwenya",
+        "photo" : "Zweli",
+        "phone" : "0710485607",
+        "email" : "Zwelihle62@gmail.com"
     },
+
     "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+        "degree" : "Ba in Public Management and Governance",
+        "institution" : "University of Johannesburg",
+        "StartandEnd"  : "2021 - 2023"
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
-    },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+    
+    "skiils" : {
+        "skill1" : "JavaScript",
+        "Skill2" : "Python",
+        "Skill3" : "Html",
+        "skill4" : "Css",
+        "skill5" : "Project planning and evaluation",
+        "skill6" : "Budgeting and resource Management"
+    }
 }
+  
