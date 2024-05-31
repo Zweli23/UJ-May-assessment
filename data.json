@@ -1,5 +1,6 @@
 {
-    "user" : {
+    "user" : {  
+        "image" : "./IMG_1679468545415.png",
         "fullName" : "Zweli Ngwenya",
         "photo" : "Zweli",
         "phone" : "0710485607",
